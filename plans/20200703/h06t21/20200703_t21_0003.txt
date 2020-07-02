@@ -1,0 +1,6 @@
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+2003GE42	19.548496666666665	30.79241
+#chain 20200703_t21_0004.txt

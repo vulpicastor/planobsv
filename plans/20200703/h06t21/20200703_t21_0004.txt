@@ -1,0 +1,6 @@
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+2011JT9	16.678726666666666	6.66409
+#chain 20200703_t21_0005.txt

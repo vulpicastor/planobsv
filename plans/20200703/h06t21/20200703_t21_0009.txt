@@ -1,0 +1,6 @@
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+1988DZ4	18.045971333333334	20.33607
+#chain 20200703_t21_0010.txt
