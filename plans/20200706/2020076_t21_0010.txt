@@ -1,0 +1,6 @@
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+1994LY	18.22128	24.07450
+#chain 2020076_t21_0011.txt
