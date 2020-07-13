@@ -1,0 +1,8 @@
+#noadaptivefocus
+#skippreviews
+#count 2
+#interval 60
+#binning 1
+#filter Luminance
+2003GE42	19.4743653	28.49575
+#chain 20200713_0005.txt
