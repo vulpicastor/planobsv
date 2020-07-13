@@ -1,0 +1,5 @@
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+2011JT9	16.6607993	0.20412
