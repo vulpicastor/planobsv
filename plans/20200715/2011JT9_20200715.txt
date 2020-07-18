@@ -1,0 +1,7 @@
+#noadaptivefocus
+#skippreviews
+#count 3
+#interval 60
+#binning 1
+#filter Luminance
+2011JT9	16.6703967	-2.21197

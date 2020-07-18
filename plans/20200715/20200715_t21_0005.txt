@@ -1,0 +1,5 @@
+#count 3
+#interval 30
+#binning 1
+#filter Luminance
+2011XZ1	21.798922	5.86878
