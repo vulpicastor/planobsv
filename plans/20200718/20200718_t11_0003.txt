@@ -1,0 +1,8 @@
+#noadaptivefocus
+#skippreviews
+#count 2
+#interval 60
+#binning 1
+#filter Luminance
+2011JT9	16.68837	-4.66329
+#chain 20200718_t11_0004.txt

@@ -1,0 +1,8 @@
+#noadaptivefocus
+#skippreviews
+#express
+#count 2
+#interval 60
+#binning 1
+#filter Luminance
+1994LY	18.04145533	21.30836

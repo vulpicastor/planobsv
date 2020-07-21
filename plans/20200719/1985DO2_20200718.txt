@@ -1,0 +1,5 @@
+#count 3
+#interval 45
+#binning 1
+#filter Luminance
+1985DO2	1.1678393	20.99016

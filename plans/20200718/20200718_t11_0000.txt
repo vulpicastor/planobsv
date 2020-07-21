@@ -1,0 +1,9 @@
+#forcestartupfocus
+#noadaptivefocus
+#skippreviews
+#count 2
+#interval 60
+#binning 1
+#filter Luminance
+1988DZ4	17.8897527	17.21125
+#chain 20200718_t11_0001.txt
