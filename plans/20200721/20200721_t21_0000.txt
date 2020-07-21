@@ -1,0 +1,6 @@
+#count 3
+#interval 45
+#binning 1
+#filter Luminance
+1985DO2	1.5061726	19.71180
+#chain 20200721_t21_0001.txt

@@ -1,0 +1,7 @@
+#count 3
+#interval 30
+#binning 1
+#filter Luminance
+2011XZ1	22.0984047	11.84802
+#waitfor 300
+#chain 20200721_t21_0004.txt
