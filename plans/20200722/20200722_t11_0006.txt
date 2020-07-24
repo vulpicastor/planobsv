@@ -1,0 +1,7 @@
+#skippreviews
+#count 3
+#interval 120
+#binning 1
+#filter Luminance
+1988DZ4	17.8664007	16.01300
+#chain 20200722_t11_0007.txt

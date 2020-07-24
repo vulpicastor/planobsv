@@ -1,0 +1,7 @@
+#skippreviews
+#count 3
+#interval 30
+#binning 1
+#filter Luminance
+2011XZ1	22.141558	12.69110
+#chain 20200722_t11_0003.txt
